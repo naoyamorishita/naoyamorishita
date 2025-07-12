@@ -1,4 +1,7 @@
 # Hi there, I'm Naoya Morishita👋
+
+Jump to [Industory Experience](#industory), [Academic Experience](#education), or [Projects](projects--conference-poster).
+
 I am a consultant for **international development projects with a specialization in GIS and remote sensing.**
 I am especially interested in **spatial analysis for environmental conservation projects** using open- source software, such as QGIS, Python, R, PostgreSQL, and Julia (a little bit).
 Recenlty, I started learning web mapping technology too.
@@ -11,7 +14,6 @@ Plus, I like to coding and I'm currently learning Java and Scala languages.
 
 ![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
 
-Read [Industory Experience](#industory), [Academic Experience](#education), or [Projects](projects--conference-poster).
 
 ## Experiences
 Also visit [my resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
