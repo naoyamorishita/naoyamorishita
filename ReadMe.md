@@ -6,4 +6,4 @@
 ✍️ I am learning Java and Scala.<br>
 ✈️ I like visiting natural and historical places and watching comedy show.
 
-Details at [details.md](https://github.com/naoyamorishita/naoyamorishita/blob/main/details.md).
+Details at [here](https://github.com/naoyamorishita/naoyamorishita/blob/main/details.md).

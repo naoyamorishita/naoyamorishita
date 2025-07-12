@@ -1,10 +1,10 @@
 # Hi there, I'm Naoya Morishita👋
 
-Jump to [Industory Experience](#industory), [Academic Experience](#education), or [Projects](projects--conference-poster).
+Jump to [Industory Experience](#industory), [Academic Experience](#education), [Projects](projects--conference-poster), or [Contact](#contact)
 
 I am a consultant for **international development projects with a specialization in GIS and remote sensing.**<br>
 I am especially interested in **spatial analysis for environmental conservation projects** using open- source software, such as QGIS, Python, R, PostgreSQL, and Julia (a little bit).<br>
-Recenlty, I started learning web mapping, such as MapLibre and Leaflet, and InterPlanetary File System too.<br>
+Recenlty, I started learning web mapping, such as MapLibre and Leaflet, and InterPlanetary File System, and Cloud Native GIS (CNG) too.<br>
 Occasionally, I also use commercial software such as GoogleEarthEngine and ArcGIS Pro.<br>
 
 In my free time, I like listening music, visiting nature and historical places, and watching comedy shows.<br>
@@ -68,3 +68,8 @@ In 2020, I was one of executive board of the local committee, and due to the COV
 - [Geospatial Analysis with R Project Poster](https://drive.google.com/file/d/1przSzgX2w7Bu-Xe5GC-tGOCgut8wtvqH/view?usp=sharing): Nighttime radiance and public housing in Miami (Presented at [The New England-St. Lawrence Valley Geographical Society](https://nestval.aag.org) Conference).
 - Also I'm writing an article as a co- first author about forest morphology analysis with machine learning.
 - Some of Jupyter Notebooks are available at [my main repository](https://github.com/naoyamorishita/main).
+
+## Contact
+- [Email](mailto:0zh4772g325515u64@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/naoya-morishita-705393254/)
+- [Facebook](https://www.facebook.com/naoya.morishita.56/)
