@@ -9,7 +9,9 @@ Plus, I like to coding and I'm currently learning Java and Scala languages.
 
 ![Myself](files/me.jpeg)
 
-![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)
+![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
+
+Read [Industory Experience](#industory), [Academic Experience](#education), or [Projects](projects--conference-poster).
 
 ## Experiences
 Also visit [my resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
@@ -50,7 +52,7 @@ In 2020, I was one of executive board of the local committee, and due to the COV
 - [Programming](https://drive.google.com/file/d/1YJccMzebTXIdLNOrHuIpP-dfA_wZ53_Y/view?usp=sharing), [ML & AI](https://drive.google.com/file/d/1K3BidFksVIzJzeyVH5FxiqKm6yLhshoD/view?usp=sharing) (with [Python](https://drive.google.com/file/d/1yDNTTXXLZ6nQ4tm0c2QF3lfiaxpHiCrO/view?usp=sharing)), [Data Analysis](https://drive.google.com/file/d/1LpEq5fhV-XX4A3liiJKM1x6qt8cb2jIf/view?usp=sharing) by LinkedIn Learning
 - [Intro to SAR](https://drive.google.com/file/d/1ztXKeByR3P3V-6qKtt5EuXAtV_-W8ayz/view?usp=sharing) by NASA
 
-### Projects & Conference Poster
+## Projects & Conference Poster
 - Master's Thesis
     - [Chapter1](https://drive.google.com/file/d/1v95dtnStOPnyLN8tAxUJsYyh5a1dnrAG/view?usp=sharing): 2 time points comparison of forest morphology and fragmentation at the State level. (Presented at Graduate Student Multidisciplinary Conference at Clark University)
     - [Chapter2](https://drive.google.com/file/d/1KTwdp9Vc1m3MdMPhjuuXkAoh-fcOZSoI/view?usp=sharing): Modeling bear sighting locations in relation to forest morphology and fragmentation (Presented at [AAG Annual Meeting](https://www.aag.org)).
