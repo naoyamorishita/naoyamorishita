@@ -7,8 +7,8 @@ I am especially interested in **spatial analysis for environmental conservation 
 Recenlty, I started learning web mapping, such as MapLibre and Leaflet, and InterPlanetary File System, and Cloud Native GIS (CNG) too.<br>
 Occasionally, I also use commercial software such as GoogleEarthEngine and ArcGIS Pro.<br>
 
-In my free time, I like listening music, visiting nature and historical places, and watching comedy shows.<br>
-Plus, I like to coding and I'm currently learning Java and Scala languages.
+In my free time, I like listening to music, visiting nature and historical places, and watching comedy shows.<br>
+Plus, I like coding and I'm currently learning Java and Scala languages.
 
 ![Myself](files/me.jpeg)
 
