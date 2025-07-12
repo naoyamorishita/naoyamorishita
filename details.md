@@ -29,7 +29,7 @@ Moreover, I and my team worked with Wildlife Conservation Society, and I identif
 🎙️ Watching comedy.<br>
 🎧 Listening to music.
 
-Jump to [Projects](projects--conference-poster),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact)
+Jump to [Projects](#projects--conference-poster),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact)
 
 ![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
 
@@ -56,7 +56,7 @@ Jump to [Projects](projects--conference-poster),  [Industory Experience](#indust
 #### Master of Science in Geographic Information Science (~May 2024)
 *[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*<br>
 - Studied **GIS and remote sensing and how they can be incorporated into conservation projects**.<br> 
-- Also see the [Projects](projects--conference-poster).
+- Also see the [Projects](#projects--conference-poster).
 
 
 ##### Leadership Experiences
