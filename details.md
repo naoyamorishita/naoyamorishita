@@ -1,7 +1,4 @@
 # Hi there, I'm Naoya Morishita, a GIScientist👋
-
-Jump to [Projects](projects--conference-poster),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact)
-
 ## Summary
 I’m currently working at a geospatial consultancy company that works for Japanese Organization Development Assistance Projects.<br>
 My particular interest is geographic information science application for environmental conservation with open- sourced solutions.<br>
@@ -26,6 +23,8 @@ Moreover, I and my team worked with Wildlife Conservation Society, and I identif
 🎙️ Watching comedy.<br>
 🎧 Listening to music.
 
+Jump to [Projects](projects--conference-poster),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact)
+
 ![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
 
 ## Projects & Conference Posters
@@ -35,7 +34,7 @@ Moreover, I and my team worked with Wildlife Conservation Society, and I identif
     - [Chapter3](https://drive.google.com/file/d/1-XQnP7SMEBXeoL6QF7A_Z-PsrLKH_6yW/view?usp=sharing): 2 time points comparison of forest morphology and at the municipality level. (Presented at [Northeast Arc Users Group](https://www.northeastarc.org) Conference)
 - [Mangrove damage identification](https://code.earthengine.google.com/063ff9e04d1d0fde236d127a250fa4e2) using satellite imagery from a work with Wildlife Conservation Society.
 - [Geospatial Analysis with R Project Poster](https://drive.google.com/file/d/1przSzgX2w7Bu-Xe5GC-tGOCgut8wtvqH/view?usp=sharing): Nighttime radiance and public housing in Miami (Presented at [The New England-St. Lawrence Valley Geographical Society](https://nestval.aag.org) Conference).
-- Also I'm writing an article as a co- first author about forest morphology analysis with machine learning.
+- Also I'm writing an article as a co- first author about forest morphology with machine learning.
 - Some of Jupyter Notebooks are available at [my main repository](https://github.com/naoyamorishita/main).
 
 ## Detailed Experiences
@@ -54,28 +53,28 @@ I have been working for some GIS projects, such as **running GIS seminers in an 
 *[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*
 
 I learned fundamental~ advanced **GIS and remote sensing and how they can be incorporated into conservation projects**.<br> 
-I wrote **thesis about forest morphology and fragmentation in comparison with American black bears' homerange** which I presented at some conferences (See [Projects](projects--conference-poster)).
+I wrote **thesis about forest morphology and fragmentation in comparison with American black bears' homerange** which I presented at conferences (See [Projects](projects--conference-poster)).
 
 ![Me at the graduation](files/clark_gradphoto.jpeg)
 
 ##### Leadership Experiences
 *Teaching Assistant in Japanese Language Class*
 
-I led a Japanese discussion sessions where students were able to learn how to communicate in Japanese.
+I led discussion sessions where students were able to learn how to communicate in Japanese.
 
-#### Bachelor of Arts and Sciences, major in International Development and Industory (~Mar 2022)
+#### Bachelor of Arts and Sciences, major in International Development and Business (~Mar 2022)
 *[School of Global Studies and Collaboration, Aoyama Gakuin University](https://www.aoyama.ac.jp/en/academic/undergraduate/gsc/)*
 
 I learned theoretical backgrounds about **international development, industory, and Southeast Asian studies**.<br> 
-I also experienced **5- month exchange program at [Thammasat University](https://tu.ac.th/en), Bangkok** where I deepened my understanding about the country from lecturers, students, and residents.<br> 
-I also conducted **a field research about renewable energy feasibility and perception of the students.**
+I also experienced **a 5- month exchange program at [Thammasat University](https://tu.ac.th/en), Bangkok** where I deepened my understanding about the country from lecturers, students, and residents.<br> 
+I then conducted **a field research about renewable energy feasibility and perception of the students.**
 
 ##### Leadership Experiences
 *[AIESEC](https://aiesec.org) in Aoyama Gakuin University*
 
-I joined to help students experiencing international volunteering and internship.<br> 
+I joined the organization to help students experience international volunteering and internship.<br> 
 I also **taught environmental issuses at a kindergarten in the Philippines for 6 weeks.** as a volunteering participant.<br>
-In 2020, I was one of the executive board of the local committee, and due to the COVID19, but we had to cancell all exchange projects.<br>
+In 2020, I was one of the executive board of the local committee, but due to the COVID19, we had to cancell all exchange projects.<br>
 **We organized lots of events, such as online international dialogues to maintain the organization and its philosophy even under such catastorophe.**
 
 ![An image of village where I worked for](./files/ph_village.jpeg)
