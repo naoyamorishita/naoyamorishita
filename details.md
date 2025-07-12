@@ -2,12 +2,12 @@
 
 Jump to [Industory Experience](#industory), [Academic Experience](#education), or [Projects](projects--conference-poster).
 
-I am a consultant for **international development projects with a specialization in GIS and remote sensing.**
-I am especially interested in **spatial analysis for environmental conservation projects** using open- source software, such as QGIS, Python, R, PostgreSQL, and Julia (a little bit).
-Recenlty, I started learning web mapping technology too.
-Occasionally, I also use commercial software such as GoogleEarthEngine and ArcGIS Pro.
+I am a consultant for **international development projects with a specialization in GIS and remote sensing.**<br>
+I am especially interested in **spatial analysis for environmental conservation projects** using open- source software, such as QGIS, Python, R, PostgreSQL, and Julia (a little bit).<br>
+Recenlty, I started learning web mapping, such as MapLibre and Leaflet, and InterPlanetary File System too.<br>
+Occasionally, I also use commercial software such as GoogleEarthEngine and ArcGIS Pro.<br>
 
-In my free time, I like listening music, visiting nature and historical places, and watching comedy shows.
+In my free time, I like listening music, visiting nature and historical places, and watching comedy shows.<br>
 Plus, I like to coding and I'm currently learning Java and Scala languages.
 
 ![Myself](files/me.jpeg)
@@ -19,34 +19,39 @@ Plus, I like to coding and I'm currently learning Java and Scala languages.
 Also visit [my resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
 
 ### Industory
-#### International Development Consultant (July 2024~)
+#### International Development Consultant (Jul 2024~)
 I have been working for some GIS projects, such as **running GIS seminers in an Oceanian country for forestory application**, **preliminary analysis for REDD+ application**, and **research on cloud native GIS utilization.**
 
 #### Other part- time jobs 
 - When I was an undergraduate student, I was **a teacher of a supplementary school** in Yokohama, teaching Japanese history, English, and Japanese to elementary ~ high school students.
-- Also when I was an undergraduate student, I was **working for a computer shop** to teach computer skills and fix technical problems of customers.
+- Also when I was an undergraduate student, I was **working for a computer shop** to teach computer skills to and fix technical problems from customers.
 
 ### Education
-#### Master of Science in Geographic Information Science
-*[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (Completed in May 2024 with GPA of 3.98)*
+#### Master of Science in Geographic Information Science (~May 2024)
+*[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*
 
-I learned fundamental~ advanced **GIS and remote sensing and how they can be incorporated into conservation projects.** I wrote **thesis about forest morphology and fragmentation in comparison with American black bears' homerange** which I presented at some conferences (See below).
+I learned fundamental~ advanced **GIS and remote sensing and how they can be incorporated into conservation projects**.<br> 
+I wrote **thesis about forest morphology and fragmentation in comparison with American black bears' homerange** which I presented at some conferences (See [Projects](projects--conference-poster)).
 
 ![Me at the graduation](files/clark_gradphoto.jpeg)
 
-#### Bachelor of Arts and Sciences, major in International Business
-*[School of Global Studies and Collaboration, Aoyama Gakuin University](https://www.aoyama.ac.jp/en/academic/undergraduate/gsc/) (Completed in Mar 2022)*
+#### Bachelor of Arts and Sciences, major in International Business (~Mar 2022)
+*[School of Global Studies and Collaboration, Aoyama Gakuin University](https://www.aoyama.ac.jp/en/academic/undergraduate/gsc/)*
 
-I learned **theoretical backgrounds about international development, industory, and Southeast Asian studies (completed in Mar 2022)**. I also joined **5- month exchange program at [Thammasat University](https://tu.ac.th/en)** where I deepened my understanding about the country from lecturers, students, and residents. I also conducted a field research about renewable energy perception of the students.
+I learned **theoretical backgrounds about international development, industory, and Southeast Asian studies**.<br> 
+I also experienced **5- month exchange program at [Thammasat University](https://tu.ac.th/en), Bangkok** where I deepened my understanding about the country from lecturers, students, and residents.<br> 
+I also conducted **a field research about renewable energy perception of the students.**
 
 ##### Leadership Experiences
 *[AIESEC](https://aiesec.org) in Aoyama Gakuin University*
 
-I joined to help students experiencing international volunteering and internship. I also experienced a volunteering program and **taught environmental issuses at a local kindergarten in Philippines for 6 weeks.** 
+I joined to help students experiencing international volunteering and internship.<br> 
+I also experienced a volunteering program and **taught environmental issuses at a local kindergarten in Philippines for 6 weeks.** <br>
+In 2020, I was one of executive board of the local committee, and due to the COVID19, we had to cancell all exchange projects.<br>
+**We organized several events, such as online conferences to maintain the organization and its philosophy even under such catastorophe.**
 
 ![An image of village where I worked for](./files/ph_village.jpeg)
 
-In 2020, I was one of executive board of the local committee, and due to the COVID19, we had to cancell all exchange projects. We organized several events, such as online conferences to maintain the organization and its philosophy even under such catastorophe.
 
 #### Other Online Courses
 - [Landscape Ecology](https://drive.google.com/file/d/1dHDsb4criQKbVJMupAKrU_rGuc3bFMUw/view?usp=sharing) by ETH Zurich
