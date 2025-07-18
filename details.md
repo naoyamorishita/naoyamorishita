@@ -15,12 +15,12 @@
 
 ## Projects & Posters
 - Master's Thesis
-    - [Chapter1](https://drive.google.com/file/d/1v95dtnStOPnyLN8tAxUJsYyh5a1dnrAG/view?usp=sharing): 2 time points comparison of forest morphology and fragmentation at the State level. (Presented at Graduate Student Multidisciplinary Conference at Clark University)
-    - [Chapter2](https://drive.google.com/file/d/1KTwdp9Vc1m3MdMPhjuuXkAoh-fcOZSoI/view?usp=sharing): Modeling bear sighting locations in relation to forest morphology and fragmentation (Presented at [AAG Annual Meeting](https://www.aag.org)).
-    - [Chapter3](https://drive.google.com/file/d/1-XQnP7SMEBXeoL6QF7A_Z-PsrLKH_6yW/view?usp=sharing): 2 time points comparison of forest morphology and at the municipality level. (Presented at [Northeast Arc Users Group](https://www.northeastarc.org) Conference)
-- [Mangrove damage identification using satellite imagery](https://code.earthengine.google.com/063ff9e04d1d0fde236d127a250fa4e2) from a work with Wildlife Conservation Society.
-- [Geospatial Analysis with R Project Poster](https://drive.google.com/file/d/1przSzgX2w7Bu-Xe5GC-tGOCgut8wtvqH/view?usp=sharing): Nighttime radiance and public housing in Miami (Presented at [The New England-St. Lawrence Valley Geographical Society](https://nestval.aag.org) Conference).
-- Paper under preperation for [AI for Landscape Ecology](https://link.springer.com/collections/aaidbjichg)
+    - **Chapter1: 2 time points comparison of forest morphology and fragmentation at the State level.** ([Poster](https://drive.google.com/file/d/1v95dtnStOPnyLN8tAxUJsYyh5a1dnrAG/view?usp=sharing) presented at Graduate Student Multidisciplinary Conference at Clark University)
+    - **Chapter2: Modeling bear sighting locations in relation to forest morphology and fragmentation** ([Poster](https://drive.google.com/file/d/1KTwdp9Vc1m3MdMPhjuuXkAoh-fcOZSoI/view?usp=sharing) presented at [AAG Annual Meeting](https://www.aag.org)).
+    - **Chapter3: 2 time points comparison of forest morphology and at the municipality level.** ([Poster](https://drive.google.com/file/d/1-XQnP7SMEBXeoL6QF7A_Z-PsrLKH_6yW/view?usp=sharing) presented at [Northeast Arc Users Group](https://www.northeastarc.org) Conference)
+- **Nighttime radiance and public housing in Miami** ([Poster](https://drive.google.com/file/d/1przSzgX2w7Bu-Xe5GC-tGOCgut8wtvqH/view?usp=sharing) presented at [The New England-St. Lawrence Valley Geographical Society](https://nestval.aag.org) Conference).
+- **(Draft) Analyzing landscape change drivers in Atlantic Forest using ML**: Paper under preperation for [AI for Landscape Ecology](https://link.springer.com/collections/aaidbjichg). (Co- lead author)
+- **Mangrove damage identification using satellite imagery**: [GIF from GEE](https://code.earthengine.google.com/063ff9e04d1d0fde236d127a250fa4e2) from a work with Wildlife Conservation Society.
 - Some of Jupyter Notebooks at [my main repository](https://github.com/naoyamorishita/main).
 
 ## Details
