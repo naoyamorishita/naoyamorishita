@@ -24,32 +24,39 @@
 - Some of Jupyter Notebooks at [my main repository](https://github.com/naoyamorishita/main).
 
 ## Detailed Experiences
-### Industory
-#### International Development Consultant (Jul 2024~)
+### Myself in 150 words
+(Also visit [resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).)
+
+I’m a (geo) data scientist and consultant for Organization Development Assistance Projects.<br>
+My particular interest lies in geographic information science for environmental conservation with open- sourced solutions.<br>
+I have been (1) teaching GIS to forestry workers in a Pacific country, (2) researching cloud native geospatial solutions for ODA projects, and (3) analyzing deforestation and potential carbon emission for a climate mitigation framework (REDD+) application.<br>
+I achieved most of the tasks with open- sourced software like Python and QGIS.
+
+Before joining the company, I completed M.S. in Geographic Information Science at Clark University and B.A.S. in International Development at Aoyama Gakuin University.<br>
+In my master’s thesis, I analyzed forest morphology, fragmentation and bear sightings in Massachusetts using Python and R.<br>
+Moreover, we worked with Wildlife Conservation Society, and I identified potential damage in the Sundarbans mangrove forest, Bangladesh.
+I like visiting nature and historical places in my free time.
+
+
+### International Development Consultant (Jul 2024~ Present)
 - Working for projects including, but not limited to, **GIS seminers in an Oceanian country for forestory application**, **preliminary analysis for REDD+ application**, and **research on cloud native GIS utilization.**
 
-#### Other part- time jobs during
-- *Teacher of a supplementary school:* taught Japanese history, English, and Japanese to elementary ~ high school students.
-- *Employee at a computer shop:* taught computer skills to and fix technical problems from customers, and managed some backyard operations.
-
-### Education
-#### Master of Science in Geographic Information Science (~May 2024)
+### Master of Science in Geographic Information Science (Aug 2022~ May 2024)
 *[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*
 - Studied **GIS and remote sensing and how they can be incorporated into conservation projects**.
 - Also see the [Projects](#projects--conference-posters).
 
-
-##### Leadership Experiences
+#### Leadership Experiences
 - *TA in a Japanese Class:* organized and led 2 discussion sessions to help students learn written and verbal communication in Japanese.
 
 ![Me at the graduation](files/clark_gradphoto.jpeg)
 
-#### Bachelor of Arts and Sciences, major in International Development and Business (~Mar 2022)
+### Bachelor of Arts and Sciences, major in International Development and Business (Apr 2018~ Mar 2022)
 *[School of Global Studies and Collaboration, Aoyama Gakuin University](https://www.aoyama.ac.jp/en/academic/undergraduate/gsc/)*
 - Studied **international development, industory, and Southeast Asian studies**.
 - Also studied fundamental science subjects such as **statistics, fieldworking methods, and academic writing and presentation in English**
 
-##### International & Leadership Experiences
+#### International & Leadership Experiences
 - *5- month exchange program at [Thammasat University](https://tu.ac.th/en) in Thailand*
     - Studied ASEAN and Chinese politics, economics, and history in one of the ASEAN country.
     - Conducted a field study about feasibility and perception about renewable energy in Bangkok.
@@ -58,10 +65,15 @@
     - Participated in a volunteering project to teach community kindergarten students about environmental issues in the Philippines for 6 weeks.
     - Ran the local committee in 2020 (i.e., COVID outbreak year) as an executive member.
         - Organized lots of events such as online international dialogues to maintain the organization and its philosophy.
+        - 
+#### Part- time jobs
+- *Teacher of a supplementary school:* taught Japanese history, English, and Japanese to elementary ~ high school students.
+- *Employee at a computer shop:* taught computer skills to and fix technical problems from customers, and managed some backyard operations.
 
-![An image of village where I worked for](./files/ph_village.jpeg)
+![An image of village where I worked for the volunteer.](./files/ph_village.jpeg)
 
-#### Other Online Courses
+
+### Other Online Courses
 - [Landscape Ecology](https://drive.google.com/file/d/1dHDsb4criQKbVJMupAKrU_rGuc3bFMUw/view?usp=sharing) by ETH Zurich
 - [Conservation Ecology](https://drive.google.com/file/d/15k8ShLK5vE3C619Qdl-N4H_LAEAscX9a/view?usp=sharing) by American Museum of Natural History
 - [Programming](https://drive.google.com/file/d/1YJccMzebTXIdLNOrHuIpP-dfA_wZ53_Y/view?usp=sharing), [ML & AI](https://drive.google.com/file/d/1K3BidFksVIzJzeyVH5FxiqKm6yLhshoD/view?usp=sharing) (with [Python](https://drive.google.com/file/d/1yDNTTXXLZ6nQ4tm0c2QF3lfiaxpHiCrO/view?usp=sharing)), [Data Analysis](https://drive.google.com/file/d/1LpEq5fhV-XX4A3liiJKM1x6qt8cb2jIf/view?usp=sharing) by LinkedIn Learning
@@ -71,7 +83,3 @@
 - [Email](mailto:0zh4772g325515u64@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/naoya-morishita-705393254/)
 - [Facebook](https://www.facebook.com/naoya.morishita.56/)
-
-### Also visit
-- [Myself in 150words](.summary.md)
-- [My resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
