@@ -3,8 +3,9 @@
 > *-  JR, from [his TED Talk](https://www.ted.com/talks/jr_my_wish_use_art_to_turn_the_world_inside_out)*
 
 ## Introduction
+Also look at [more summarized version](ReadMe.md) and [my resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
+
 ### Summary in 150 words
-(Also look at [more summarized version](ReadMe.md) and [my resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).)
 
 I’m currently working at a geospatial consultancy company that works for Japanese Organization Development Assistance Projects.<br>
 My particular interest is geographic information science application for environmental conservation with open- sourced solutions.<br>
@@ -18,18 +19,17 @@ Moreover, I and my team worked with Wildlife Conservation Society, and I identif
 ![Myself](files/me.jpeg)
 
 ### More about Me
+Also see [Projects](#projects--conference-posters),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact).
 #### What I am good at
-🗺️ Data Analytics, Geographic Information Science, and Remote Sensing.<br>
-🧑🏻‍💻 Programming languages: Python, R, PostgreSQL, and GoogleEarthEngine + a little bit of JavaScript, Java, Julia, and Scala.<br>
-🐘 Theoretical background of International Development, Southeast Asian studies, and environmental studies and ecology.<br>
-👨‍💼 Working logically, creatively, and autonomously.
+- 🗺️ Data Analytics, Geographic Information Science, and Remote Sensing.<br>
+- 🧑🏻‍💻 Programming languages: Python, R, PostgreSQL, and GoogleEarthEngine + a little bit of JavaScript, Java, Julia, and Scala.<br>
+- 🐘 Theoretical background of International Development, Southeast Asian studies, and environmental studies and ecology.<br>
+- 🧑🏻‍💼 Working logically, creatively, and autonomously.
 
 #### What I like
-✈️ Visiting nature places and historical places (Below photos are from [Acadia NP](https://www.nps.gov/acad/index.htm) and [Erin- ji temple](https://www.yamanashi-kankou.jp/english/uncover/erinji-temple.html)).<br>
-🎙️ Watching comedy.<br>
-🎧 Listening to music.
-
-Jump to [Projects](#projects--conference-poster),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact)
+- ✈️ Visiting nature places and historical places (I took the photos in [Acadia NP](https://www.nps.gov/acad/index.htm) and [Erin- ji temple](https://www.yamanashi-kankou.jp/english/uncover/erinji-temple.html)).<br>
+- 🎙️ Watching comedy.<br>
+- 🎧 Listening to music.
 
 ![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
 
@@ -49,32 +49,31 @@ Jump to [Projects](#projects--conference-poster),  [Industory Experience](#indus
 - Working for projects including, but not limited to, **GIS seminers in an Oceanian country for forestory application**, **preliminary analysis for REDD+ application**, and **research on cloud native GIS utilization.**
 
 #### Other part- time jobs during
-- **Teacher of a supplementary school:** taught Japanese history, English, and Japanese to elementary ~ high school students.
-- **Employee at a computer shop:** taught computer skills to and fix technical problems from customers, and managed some backyard operations.
+- *Teacher of a supplementary school:* taught Japanese history, English, and Japanese to elementary ~ high school students.
+- *Employee at a computer shop:* taught computer skills to and fix technical problems from customers, and managed some backyard operations.
 
 ### Education
 #### Master of Science in Geographic Information Science (~May 2024)
-*[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*<br>
-- Studied **GIS and remote sensing and how they can be incorporated into conservation projects**.<br> 
-- Also see the [Projects](#projects--conference-poster).
+*[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*
+- Studied **GIS and remote sensing and how they can be incorporated into conservation projects**.
+- Also see the [Projects](#projects--conference-posters).
 
 
 ##### Leadership Experiences
-- **TA in a Japanese Class**: organized and led 2 discussion sessions to help students learn written and verbal communication in Japanese.
+- *TA in a Japanese Class:* organized and led 2 discussion sessions to help students learn written and verbal communication in Japanese.
 
 ![Me at the graduation](files/clark_gradphoto.jpeg)
 
 #### Bachelor of Arts and Sciences, major in International Development and Business (~Mar 2022)
 *[School of Global Studies and Collaboration, Aoyama Gakuin University](https://www.aoyama.ac.jp/en/academic/undergraduate/gsc/)*
-
 - Studied **international development, industory, and Southeast Asian studies**.
-- Also studied fundamental science subjects **such as statistics, fieldworking methods, and academic writing and presentation in English**
+- Also studied fundamental science subjects such as **statistics, fieldworking methods, and academic writing and presentation in English**
 
 ##### International & Leadership Experiences
-- **5- month exchange program at [Thammasat University](https://tu.ac.th/en) in Thailand**
+- *5- month exchange program at [Thammasat University](https://tu.ac.th/en) in Thailand*
     - Studied ASEAN and Chinese politics, economics, and history in one of the ASEAN country.
     - Conducted a field study about feasibility and perception about renewable energy in Bangkok.
-- **[AIESEC](https://aiesec.org) in Aoyama Gakuin University**
+- *[AIESEC](https://aiesec.org) in Aoyama Gakuin University*
     - Helped students experience international volunteering and internship.
     - Participated in a volunteering project to teach community kindergarten students about environmental issues in the Philippines for 6 weeks.
     - Ran the local committee in 2020 (i.e., COVID outbreak year) as an executive member.
