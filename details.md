@@ -8,16 +8,12 @@
 - 🧑🏻‍💻 I use Python, R, PostgreSQL, GoogleEarthEngine, a little of Julia, as well as QGIS.
 - ✍️ I am learning Java and Scala.
 - 🎓 I have M.S in Geographic Information Science ('24) and B.A.S in International Development ('22).
-- ✈️ My favorite pastimes are visiting beautiful places and watching comedy show (Some photos are at [the bottom](#some-of-my-favorite-photos)).
-
-### Also visit
-- [Myself in 150words](.summary.md)
-- [My resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
-- [Projects](#projects--conference-posters),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact) in this page.
+- ✈️ My favorite pastimes are visiting beautiful places and watching comedy show.
+- 🔎 Also visit [Projects](#projects--posters),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact) in this page.
 
 ![Myself](files/me.jpeg)
 
-## Projects & Conference Posters
+## Projects & Posters
 - Master's Thesis
     - [Chapter1](https://drive.google.com/file/d/1v95dtnStOPnyLN8tAxUJsYyh5a1dnrAG/view?usp=sharing): 2 time points comparison of forest morphology and fragmentation at the State level. (Presented at Graduate Student Multidisciplinary Conference at Clark University)
     - [Chapter2](https://drive.google.com/file/d/1KTwdp9Vc1m3MdMPhjuuXkAoh-fcOZSoI/view?usp=sharing): Modeling bear sighting locations in relation to forest morphology and fragmentation (Presented at [AAG Annual Meeting](https://www.aag.org)).
@@ -71,12 +67,11 @@
 - [Programming](https://drive.google.com/file/d/1YJccMzebTXIdLNOrHuIpP-dfA_wZ53_Y/view?usp=sharing), [ML & AI](https://drive.google.com/file/d/1K3BidFksVIzJzeyVH5FxiqKm6yLhshoD/view?usp=sharing) (with [Python](https://drive.google.com/file/d/1yDNTTXXLZ6nQ4tm0c2QF3lfiaxpHiCrO/view?usp=sharing)), [Data Analysis](https://drive.google.com/file/d/1LpEq5fhV-XX4A3liiJKM1x6qt8cb2jIf/view?usp=sharing) by LinkedIn Learning
 - [Intro to SAR](https://drive.google.com/file/d/1ztXKeByR3P3V-6qKtt5EuXAtV_-W8ayz/view?usp=sharing) by NASA
 
-## Some of my favorite photos
-Photos are from [Acadia NP](https://www.nps.gov/acad/index.htm) and [Erin- ji temple](https://www.yamanashi-kankou.jp/english/uncover/erinji-temple.html).
-
-![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
-
 ## Contact
 - [Email](mailto:0zh4772g325515u64@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/naoya-morishita-705393254/)
 - [Facebook](https://www.facebook.com/naoya.morishita.56/)
+
+### Also visit
+- [Myself in 150words](.summary.md)
+- [My resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
