@@ -3,35 +3,19 @@
 > *-  JR, from [his TED Talk](https://www.ted.com/talks/jr_my_wish_use_art_to_turn_the_world_inside_out)*
 
 ## Introduction
-Also look at [more summarized version](ReadMe.md) and [my resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
+- 🗺️ I am a (geo) data scientist and international development consultnat.
+- 🐍 I am interested in GIS/ remote sensing for environmental conservation with open- sourced solutions.
+- 🧑🏻‍💻 I use Python, R, PostgreSQL, GoogleEarthEngine, a little of Julia, as well as QGIS.
+- ✍️ I am learning Java and Scala.
+- 🎓 I have M.S in Geographic Information Science ('24) and B.A.S in International Development ('22).
+- ✈️ My favorite pastimes are visiting beautiful places and watching comedy show (Some photos are at [the bottom](#some-of-my-favorite-photos)).
 
-### Summary in 150 words
-
-I’m currently working at a geospatial consultancy company that works for Japanese Organization Development Assistance Projects.<br>
-My particular interest is geographic information science application for environmental conservation with open- sourced solutions.<br>
-Some of my projects have been (1) teaching GIS to forestry workers in a Pacific country, (2) researching cloud native geospatial solutions for ODA projects, and (3) analyzing deforestation and potential carbon emission for a climate mitigation framework (REDD+) application.<br>
-I achieved most of the tasks with open- sourced software such as Python and QGIS.
-
-Before joining the company, I completed M.S. in Geographic Information Science at Clark University and B.A.S. in International Development at Aoyama Gakuin University.<br>
-In the graduate school, my thesis analyzed forest morphology, fragmentation and bear sightings in Massachusetts using Python and R.<br>
-Moreover, I and my team worked with Wildlife Conservation Society, and I identified potential damage in the Sundarbans mangrove forest, Bangladesh.
+### Also visit
+- [Myself in 150words](.summary.md)
+- [My resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).
+- [Projects](#projects--conference-posters),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact) in this page.
 
 ![Myself](files/me.jpeg)
-
-### More about Me
-Also see [Projects](#projects--conference-posters),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact).
-#### What I am good at
-- 🗺️ Data Analytics, Geographic Information Science, and Remote Sensing.<br>
-- 🧑🏻‍💻 Programming languages: Python, R, PostgreSQL, and GoogleEarthEngine + a little bit of JavaScript, Java, Julia, and Scala.<br>
-- 🐘 Theoretical background of International Development, Southeast Asian studies, and environmental studies and ecology.<br>
-- 🧑🏻‍💼 Working logically, creatively, and autonomously.
-
-#### What I like
-- ✈️ Visiting nature places and historical places (I took the photos in [Acadia NP](https://www.nps.gov/acad/index.htm) and [Erin- ji temple](https://www.yamanashi-kankou.jp/english/uncover/erinji-temple.html)).<br>
-- 🎙️ Watching comedy.<br>
-- 🎧 Listening to music.
-
-![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
 
 ## Projects & Conference Posters
 - Master's Thesis
@@ -40,8 +24,8 @@ Also see [Projects](#projects--conference-posters),  [Industory Experience](#ind
     - [Chapter3](https://drive.google.com/file/d/1-XQnP7SMEBXeoL6QF7A_Z-PsrLKH_6yW/view?usp=sharing): 2 time points comparison of forest morphology and at the municipality level. (Presented at [Northeast Arc Users Group](https://www.northeastarc.org) Conference)
 - [Mangrove damage identification using satellite imagery](https://code.earthengine.google.com/063ff9e04d1d0fde236d127a250fa4e2) from a work with Wildlife Conservation Society.
 - [Geospatial Analysis with R Project Poster](https://drive.google.com/file/d/1przSzgX2w7Bu-Xe5GC-tGOCgut8wtvqH/view?usp=sharing): Nighttime radiance and public housing in Miami (Presented at [The New England-St. Lawrence Valley Geographical Society](https://nestval.aag.org) Conference).
-- Also I'm writing an article as a co- first author about forest morphology with machine learning.
-- Some of Jupyter Notebooks are available at [my main repository](https://github.com/naoyamorishita/main).
+- Paper under preperation for [AI for Landscape Ecology](https://link.springer.com/collections/aaidbjichg)
+- Some of Jupyter Notebooks at [my main repository](https://github.com/naoyamorishita/main).
 
 ## Detailed Experiences
 ### Industory
@@ -86,6 +70,11 @@ Also see [Projects](#projects--conference-posters),  [Industory Experience](#ind
 - [Conservation Ecology](https://drive.google.com/file/d/15k8ShLK5vE3C619Qdl-N4H_LAEAscX9a/view?usp=sharing) by American Museum of Natural History
 - [Programming](https://drive.google.com/file/d/1YJccMzebTXIdLNOrHuIpP-dfA_wZ53_Y/view?usp=sharing), [ML & AI](https://drive.google.com/file/d/1K3BidFksVIzJzeyVH5FxiqKm6yLhshoD/view?usp=sharing) (with [Python](https://drive.google.com/file/d/1yDNTTXXLZ6nQ4tm0c2QF3lfiaxpHiCrO/view?usp=sharing)), [Data Analysis](https://drive.google.com/file/d/1LpEq5fhV-XX4A3liiJKM1x6qt8cb2jIf/view?usp=sharing) by LinkedIn Learning
 - [Intro to SAR](https://drive.google.com/file/d/1ztXKeByR3P3V-6qKtt5EuXAtV_-W8ayz/view?usp=sharing) by NASA
+
+## Some of my favorite photos
+Photos are from [Acadia NP](https://www.nps.gov/acad/index.htm) and [Erin- ji temple](https://www.yamanashi-kankou.jp/english/uncover/erinji-temple.html).
+
+![Acadia National Park](files/acadia.jpeg) ![A temple in Japan](files/temple.jpeg)<br>
 
 ## Contact
 - [Email](mailto:0zh4772g325515u64@gmail.com)
