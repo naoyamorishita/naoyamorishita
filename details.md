@@ -11,7 +11,7 @@
 - ✈️ My favorite pastimes are visiting beautiful places and watching comedy show.
 - 🔎 Also visit [Projects](#projects--posters),  [Industory Experience](#industory), [Academic Experience](#education), or [Contact](#contact) in this page.
 
-![Myself](files/me.jpeg)
+![Me](files/me.jpeg)
 
 ## Projects & Posters
 - Master's Thesis
@@ -23,7 +23,7 @@
 - Paper under preperation for [AI for Landscape Ecology](https://link.springer.com/collections/aaidbjichg)
 - Some of Jupyter Notebooks at [my main repository](https://github.com/naoyamorishita/main).
 
-## Detailed Experiences
+## Details
 ### Myself in 150 words
 (Also visit [resume](https://docs.google.com/document/d/1ijZtEYsCy4wlroVGakiaZGIpIcOqZZFoT6h-3xpDmWk/edit?usp=sharing).)
 
@@ -34,44 +34,53 @@ I achieved most of the tasks with open- sourced software like Python and QGIS.
 
 Before joining the company, I completed M.S. in Geographic Information Science at Clark University and B.A.S. in International Development at Aoyama Gakuin University.<br>
 In my master’s thesis, I analyzed forest morphology, fragmentation and bear sightings in Massachusetts using Python and R.<br>
-Moreover, we worked with Wildlife Conservation Society, and I identified potential damage in the Sundarbans mangrove forest, Bangladesh.
+Moreover, we worked with Wildlife Conservation Society, and I identified potential damage in the Sundarbans mangrove forest, Bangladesh.<br>
 I like visiting nature and historical places in my free time.
 
+ ![On the way to field in Papua New Guinea](/files/png_village.jpeg) ![Acadia National Park](/files/acadia.jpeg) ![An image of village where I worked for the volunteer.](./files/ph_village.jpeg)
 
 ### International Development Consultant (Jul 2024~ Present)
-- Working for projects including, but not limited to, **GIS seminers in an Oceanian country for forestory application**, **preliminary analysis for REDD+ application**, and **research on cloud native GIS utilization.**
+- Collaborated to run a seminer teaching GIS/ GPS for sustainable forestry management in Papua New Guinea,
+- Researched cloud native geospatial solutions potentials for future ODA projects,
+- Analyzed potential deforestation and carbon in Papua New Guinea for the REDD+ project,
+- Collaborated on writing a business proposal for GIS related ODA projects, and
+- Helped organizing technical trainings in Japan for professionals in emerging countries.
 
 ### Master of Science in Geographic Information Science (Aug 2022~ May 2024)
 *[Geographic Information Science, M.S., Clark University](https://www.clarku.edu/programs/masters/geographic-information-science-ms/) (GPA of 3.98)*
-- Studied **GIS and remote sensing and how they can be incorporated into conservation projects**.
-- Also see the [Projects](#projects--conference-posters).
+- Studied GIS and remote sensing, especially for environmental conservations, 
+- Wrote master's thesis about forest morphology and bear sightings in Massachusetts, 
+- Collaborated on mangrove and seagrass research for Wildlife Conservation Society, and
+- Presented the thesis multiple times and other class works at conferences. (See the [Projects](#projects--posters).)
 
-#### Leadership Experiences
-- *TA in a Japanese Class:* organized and led 2 discussion sessions to help students learn written and verbal communication in Japanese.
+#### Other Experiences
+##### TA in a Japanese Class
+- Organized and led 2 discussion sessions to help students learn written and verbal communication in Japanese.
 
-![Me at the graduation](files/clark_gradphoto.jpeg)
-
-### Bachelor of Arts and Sciences, major in International Development and Business (Apr 2018~ Mar 2022)
+### Bachelor of Arts and Sciences in International Development and Business (Apr 2018~ Mar 2022)
 *[School of Global Studies and Collaboration, Aoyama Gakuin University](https://www.aoyama.ac.jp/en/academic/undergraduate/gsc/)*
-- Studied **international development, industory, and Southeast Asian studies**.
-- Also studied fundamental science subjects such as **statistics, fieldworking methods, and academic writing and presentation in English**
+- Studied international development, industory, and Southeast Asian studies.
+- Also studied fundamental science subjects such as statistics, fieldworking methods, and academic writing and presentation in English.
 
 #### International & Leadership Experiences
-- *5- month exchange program at [Thammasat University](https://tu.ac.th/en) in Thailand*
-    - Studied ASEAN and Chinese politics, economics, and history in one of the ASEAN country.
-    - Conducted a field study about feasibility and perception about renewable energy in Bangkok.
-- *[AIESEC](https://aiesec.org) in Aoyama Gakuin University*
-    - Helped students experience international volunteering and internship.
-    - Participated in a volunteering project to teach community kindergarten students about environmental issues in the Philippines for 6 weeks.
-    - Ran the local committee in 2020 (i.e., COVID outbreak year) as an executive member.
-        - Organized lots of events such as online international dialogues to maintain the organization and its philosophy.
-        - 
+##### 5- month exchange program at [Thammasat University](https://tu.ac.th/en) in Thailand
+- Studied ASEAN and Chinese politics, economics, and history in one of the ASEAN country.
+- Conducted a field study about feasibility and perception about renewable energy in Bangkok.
+
+##### Develop Lawaguin
+- Participated in a volunteering project to teach community kindergarten students about environmental issues in the Philippines for 6 weeks.
+
+##### [AIESEC](https://aiesec.org) in Aoyama Gakuin University
+- Helped students experience international volunteering and internship.
+- Ran the local committee in 2020 (i.e., COVID outbreak year) as an executive member.
+    - Led/ Organized lots of events such as online international dialogues to maintain the organization and its philosophy.
+
 #### Part- time jobs
-- *Teacher of a supplementary school:* taught Japanese history, English, and Japanese to elementary ~ high school students.
-- *Employee at a computer shop:* taught computer skills to and fix technical problems from customers, and managed some backyard operations.
+##### Teacher of a supplementary school
+- Taught Japanese history, English, and Japanese to elementary ~ high school students.
 
-![An image of village where I worked for the volunteer.](./files/ph_village.jpeg)
-
+##### Employee at a computer shop
+- Taught computer skills to and fix technical problems from customers, and managed some backyard operations.
 
 ### Other Online Courses
 - [Landscape Ecology](https://drive.google.com/file/d/1dHDsb4criQKbVJMupAKrU_rGuc3bFMUw/view?usp=sharing) by ETH Zurich
