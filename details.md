@@ -3,7 +3,7 @@
 > *-  JR, from [his TED Talk](https://www.ted.com/talks/jr_my_wish_use_art_to_turn_the_world_inside_out)*
 
 ## Introduction
-- 🗺️ I am a (geo) data scientist and international development consultnat.
+- 🗺️ I am a (geo) data scientist and international development consultant.
 - 🐍 I am interested in GIS/ remote sensing for environmental conservation with open- sourced solutions.
 - 🧑🏻‍💻 I use Python, R, PostgreSQL, GoogleEarthEngine, a little of Julia, as well as QGIS.
 - ✍️ I am learning Java and Scala.
